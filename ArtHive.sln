@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtHive.API", "ArtHive\ArtHive.API.csproj", "{5CA2B8C7-DC8F-4BA6-8EEF-80FB5B6A2D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtHive.Domain", "ArtHive.Domain\ArtHive.Domain.csproj", "{1773BA53-8955-43C6-A051-4E29A0E06436}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtHive.Infrastructure", "ArtHive.Infrastructure\ArtHive.Infrastructure.csproj", "{02CD95B5-6CB7-4C82-A488-8A9204CF028B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtHive.Application", "ArtHive.Application\ArtHive.Application.csproj", "{783329C1-71AF-4765-8D09-E571311BB7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA2B8C7-DC8F-4BA6-8EEF-80FB5B6A2D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA2B8C7-DC8F-4BA6-8EEF-80FB5B6A2D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA2B8C7-DC8F-4BA6-8EEF-80FB5B6A2D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA2B8C7-DC8F-4BA6-8EEF-80FB5B6A2D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1773BA53-8955-43C6-A051-4E29A0E06436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1773BA53-8955-43C6-A051-4E29A0E06436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1773BA53-8955-43C6-A051-4E29A0E06436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1773BA53-8955-43C6-A051-4E29A0E06436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CD95B5-6CB7-4C82-A488-8A9204CF028B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CD95B5-6CB7-4C82-A488-8A9204CF028B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CD95B5-6CB7-4C82-A488-8A9204CF028B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CD95B5-6CB7-4C82-A488-8A9204CF028B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{783329C1-71AF-4765-8D09-E571311BB7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783329C1-71AF-4765-8D09-E571311BB7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783329C1-71AF-4765-8D09-E571311BB7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783329C1-71AF-4765-8D09-E571311BB7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBB71D7-5C21-4A8C-AE77-12ACC413F43A}
+	EndGlobalSection
+EndGlobal
